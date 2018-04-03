@@ -1,0 +1,4 @@
+
+when you start asmbot, it will connect to the irc server,
+then wait for the first ping before joining the channel
+
